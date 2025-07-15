@@ -8,6 +8,7 @@ public class SendEmailUsingSpringBoot0807Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SendEmailUsingSpringBoot0807Application.class, args);
+		System.out.println("Email Sending  Application Started !!");
 	}
 
 }
